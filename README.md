@@ -33,6 +33,10 @@ You are the manager of an alchemy store. You'll have to prepare potion orders, b
 - Florian Louvet:
 
   - Import of libs
+  - Save / Load system
+  - Character animations / model
+  - Menus
+  - 
 
 - Chloé Bourgeay
 
