@@ -36,18 +36,20 @@ You are the manager of an alchemy store. You'll have to prepare potion orders, b
 
   - Import of libs
   - Save / Load system
-  - Character animations / model
+  - Import Character animations / model
   - Menus
-  - 
 
 - Chloé Bourgeay
 
   - Level designing of Alchimist's house & garden
-  - Creation of some items
+  - Creation of many items
   - Interaction system (for example: for looting or craft)
   - Quest system (from _UnrealGaimeDev_'s _Quest system_ tutorial)
   - Opening/closing doors animation in Alchimist's house
   - Link of different parts (for example: when interacting with a plant, add it to the inventory and decrease stamina)
+  - Creation of tutorial
+  - Save / load of quests system
+  - The minimap
 
 - Stanislas Hégron
 
