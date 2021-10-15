@@ -1,6 +1,6 @@
 # The Alchimist
 
-  Developed with Unreal Engine 4.27
+Developed with Unreal Engine 4.27
 
 ## Members
 
@@ -9,6 +9,14 @@
 - Stanislas Hégron
 
 ---
+
+## Game concept
+
+You are the manager of an alchemy store. You'll have to prepare potion orders, but for that you'll have to harvest your components!
+
+## Download
+
+To get the binary, you should go [there](https://epitechfr-my.sharepoint.com/:u:/g/personal/stanislas_hegron_epitech_eu/EbF4U9OCFv1AkZ9yP_BZjngBjuE1I07oTimnw2JzUND4Kw?e=cZNvQX), dowload the ZIP fiel and unzip it. Then double-clic on the .EXE named _HardRockKMU_.
 
 ## How to play ?
 
@@ -23,12 +31,6 @@ To make appear or disappear quests objectives, press the `B` key;
 By using the `Escape` key you should be able to open the pause menu in game.
 
 To fast save your game, you just have to press `F5`.
-
----
-
-## Game concept
-
-You are the manager of an alchemy store. You'll have to prepare potion orders, but for that you'll have to harvest your crops!
 
 ---
 
