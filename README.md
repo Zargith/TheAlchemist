@@ -18,6 +18,8 @@ You can interact with many things by using the `E` key.
 
 To open the inventory you should use the `I` key and to open the quest journal the `J` key.
 
+To make appear or disappear quests objectives, press the `B` key;
+
 By using the `Escape` key you should be able to open the pause menu in game.
 
 To fast save your game, you just have to press `F5`.
