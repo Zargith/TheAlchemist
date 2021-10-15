@@ -28,7 +28,7 @@ To fast save your game, you just have to press `F5`.
 
 ## Game concept
 
-You are the manager of an alchemy store. You'll have to prepare potion orders, but for that you'll have to harvest your components!
+You are the manager of an alchemy store. You'll have to prepare potion orders, but for that you'll have to harvest your crops!
 
 ---
 
@@ -40,6 +40,8 @@ You are the manager of an alchemy store. You'll have to prepare potion orders, b
   - Save / Load system
   - Import Character animations / model
   - Menus
+  - Day system
+  - Some sounds
 
 - Chloé Bourgeay
 
