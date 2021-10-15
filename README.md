@@ -64,6 +64,7 @@ You are the manager of an alchemy store. You'll have to prepare potion orders, b
   - Level designing of the merchant house
   - Sound options and setting up the sounds of the game
   - Worked on options and credits menus
+  - Custom player spawn system
 
 Special thanks to [UnrealGaimeDev](https://www.youtube.com/channel/UCRnPBe1tJpXA0lccx_U1mww) for his tutorials for inventory system and quest system on Unreal Engine.
 
