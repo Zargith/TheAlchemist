@@ -1,6 +1,6 @@
 # The Alchimist
 
-    Developed with Unreal Engine 4.27
+  Developed with Unreal Engine 4.27
 
 ## Members
 
@@ -20,6 +20,8 @@ To open the inventory you should use the `I` key and to open the quest journal t
 
 By using the `Escape` key you should be able to open the pause menu in game.
 
+To fast save your game, you just have to press `F5`.
+
 ---
 
 ## Game concept
@@ -33,6 +35,10 @@ You are the manager of an alchemy store. You'll have to prepare potion orders, b
 - Florian Louvet:
 
   - Import of libs
+  - Save / Load system
+  - Character animations / model
+  - Menus
+  - 
 
 - Chloé Bourgeay
 
@@ -55,6 +61,7 @@ You are the manager of an alchemy store. You'll have to prepare potion orders, b
   - Modified main menu to enable/disable continue button depending on if save file exists
   - Level designing of the merchant house
   - Sound options and setting up the sounds of the game
+  - Worked on options and credits menus
 
 Special thanks to [UnrealGaimeDev](https://www.youtube.com/channel/UCRnPBe1tJpXA0lccx_U1mww) for his tutorials for inventory system and quest system on Unreal Engine.
 
