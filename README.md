@@ -16,7 +16,7 @@ You are the manager of an alchemy store. You'll have to prepare potion orders, b
 
 ## Download
 
-To get the binary, you should go [there](https://epitechfr-my.sharepoint.com/:u:/g/personal/stanislas_hegron_epitech_eu/EbF4U9OCFv1AkZ9yP_BZjngBjuE1I07oTimnw2JzUND4Kw?e=cZNvQX), dowload the ZIP fiel and unzip it. Then double-clic on the .EXE named _HardRockKMU_.
+To get the binary, you should go [there](https://epitechfr-my.sharepoint.com/:u:/g/personal/stanislas_hegron_epitech_eu/EVk_UlnQOQhHoQj5-qXWW6wBKfTi9ZZbbjMMdza0--79xA?e=sJvhhe), dowload the ZIP fiel and unzip it. Then double-clic on the .EXE named _HardRockKMU_.
 
 ## How to play ?
 
