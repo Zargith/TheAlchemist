@@ -39,11 +39,8 @@ To fast save your game, you just have to press `F5`.
 - Florian Louvet:
 
   - Import of libs
-  - Save / Load system
   - Import Character animations / model
-  - Menus
   - Day system
-  - Some sounds
 
 - Chloé Bourgeay
 
